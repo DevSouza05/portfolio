@@ -3,7 +3,6 @@
 The purpose of this project is to showcase my main projects, skills, and experiences, while also allowing content management through a protected admin interface.
 
 🚀 Technologies Used
-Front-End
 
 React
 
